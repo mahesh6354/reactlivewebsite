@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.49875754.css",
+    "main.js": "/reactlivewebsite/static/js/main.9565c0d2.js",
+    "static/media/codigologo.png": "/reactlivewebsite/static/media/codigologo.fabe621d71ca83bc63df.png",
+    "static/media/Play-Quizzes (3).jpg": "/reactlivewebsite/static/media/Play-Quizzes (3).4f96a46ef05c1b80c004.jpg",
+    "static/media/img.jpg": "/reactlivewebsite/static/media/img.88ff483aa53b02180983.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.49875754.css.map": "/reactlivewebsite/static/css/main.49875754.css.map",
+    "main.9565c0d2.js.map": "/reactlivewebsite/static/js/main.9565c0d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49875754.css",
+    "static/js/main.9565c0d2.js"
+  ]
+}
