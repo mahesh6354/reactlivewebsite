@@ -1,0 +1,35 @@
+.margin{
+  margin-top: 122px;
+  margin-bottom: 18px
+}
+
+.m1{
+  margin-bottom: 18px
+}
+
+h1{
+  margin-top: 16px;
+}
+
+/* .top-to-btm{
+  position: relative;
+}
+.icon-position{
+  position: fixed;
+  bottom: 40px;
+  right: 25px;
+  z-index: 20;
+} */
+/* .icon-style{
+  background-color: #6f6f6f;
+  border: 1px solid #000;
+  border-radius: 50%;
+  height: 48px;
+  width: 49px;
+  color: #fff;
+  cursor: pointer;
+  animation: movebtn 3s ease-in-out infinite;
+  transition: all .5s ease-in-out;
+
+} */
+

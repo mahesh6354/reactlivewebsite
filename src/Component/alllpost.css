@@ -1,0 +1,133 @@
+._87ff1abb {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+._5e2e1b57 {
+    display: block;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 10px 0;
+    width: 100%;
+}
+._1b3715bf {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -webkit-align-items: start;
+    -ms-flex-align: start;
+    align-items: start;
+    margin-bottom: 0;
+}
+
+.d09782a1 {
+    -webkit-align-self: start;
+    -ms-flex-item-align: start;
+    align-self: start;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-right: 16px;
+    width: 100px;
+}
+
+._4dd6f66d {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 0;
+    display: block;
+    min-height: 80px;
+}
+
+.kk{
+    font-size: 20px;
+    line-height: 1.66rem;
+    opacity: 0.9;
+}
+
+._282e2639 {
+    text-align: center;
+    display: block;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 0;
+}
+
+._8cee0047 {
+    font-weight: 700;
+    width: 100%;
+    border-top: 2px solid #000;
+    padding-top: 2px;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    /* font-weight: 700; */
+    letter-spacing: -.25px;
+    color: #000;
+}
+
+.fidae{
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: Imperial,georgia,serif;
+    font-weight: 400;
+}
+  
+.ed62fae4 {
+    cursor: pointer;
+    font-size: 23px;
+    line-height: 35px;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 700;
+    letter-spacing: -.25px;
+    color: #000;
+    margin: 2px -1px 15px;
+}
+
+.d5fb4b49 {
+    color: #222;
+    text-decoration: none;
+}
+
+._0b184eb5 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 700;
+    color: #000;
+    letter-spacing: .5px;
+    color: #335ab9;
+}
+.bb5cdf42 {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: Imperial,georgia,serif;
+    font-weight: 400;
+    display: none;
+}
+
+.width{
+   width: 100%;
+}
+
+@media screen and (max-width : 576px) {
+    .width{
+       max-width: 100%;
+    }
+}
+
+@media screen and (max-width : 576px) , (max-width : 768px) ,(max-width : 992px) {
+    .kk{
+        font-size: 16px;
+        font-family: emoji;
+        line-height: 24px;
+    }
+    ._0b184eb5{
+        font-size: 10px;
+    }
+}

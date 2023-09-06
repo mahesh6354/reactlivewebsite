@@ -1,0 +1,152 @@
+/* header.css */
+
+
+  .toto{
+    display: flex;
+  }
+
+  .tot{
+    
+    width: 9rem;
+  }
+
+
+  .shriti{
+    
+    justify-content: center;
+    margin-left: 250px;
+    gap: 43px;
+
+  }
+
+.qazs{
+     align-self: center;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 700;
+    letter-spacing: -.25px;
+    
+    line-height: 3.5rem;
+    margin-bottom: 0;
+}
+
+  
+  .shriti1{
+    justify-content: center;
+    margin-left: 162px;
+    gap: 38px;
+  }
+ 
+
+  @media screen and (max-width : 1400px) {
+    .shriti{
+      margin-left: 196px;
+      gap: 38px;
+  
+    }
+    .shriti1{
+      margin-left: 243px;
+      gap: 15px;
+  }
+  }
+
+
+  @media screen and (max-width : 1300px) {
+    .shriti{
+      margin-left: 195px;
+      gap: 38px;  
+  
+    }
+    .shriti1{
+      margin-left: 110px;
+      gap: 35px;
+  
+  }
+  }
+
+  @media screen and (max-width : 1200px) {
+    .shriti{
+      margin-left: 165px;
+      gap: 10px;
+    }
+    .shriti1{
+      margin-left: 26px;
+      gap: 19px;
+  
+  }
+  }
+
+
+  @media screen and (max-width : 576px) ,(max-width : 768px) ,(max-width : 992px) {
+    .shriti{
+      margin-left: 24px;
+      gap: 0px;
+  
+    }
+    .shriti1{
+      margin-left: 22px;
+      gap: 0px;
+  }
+  }
+
+  /* header.css */
+
+  .zss{
+    
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    
+    font-weight: 'bolder';
+    font-size: '22px';
+    text-decoration: none;  
+  }
+
+  .eds{
+    font-size: 1rem;
+    font-weight: 800;
+  }
+
+  button.custom-button:focus {
+    outline: none;
+  }
+
+  button:focus:not(:focus-visible) {
+    outline: none;
+}
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.hgji{
+  margin-left: 3px;
+}
+
+@media screen and (max-width : 1000px) {
+  .hgji{
+    display: none;
+  }
+}
+
+
+.codigo{
+ 
+  margin-left: 58px;
+}
+@media screen and (max-width : 576px),(max-width : 768px), (max-width : 992px)  {
+  .codigo {
+    margin-left: 8px;
+}
+}
+
+
+
+.codigo1{
+  margin-left: 64px;
+}
+
+@media screen and (max-width : 576px),(max-width : 768px), (max-width : 992px)  {
+  .codigo1 {
+    margin-left: 5px;
+}
+}

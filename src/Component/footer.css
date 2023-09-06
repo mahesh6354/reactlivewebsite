@@ -1,0 +1,113 @@
+._51f6fc5b {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-family: Karnak,georgia,serif;
+    font-weight: 500;
+    color: #000;
+    color: #fff;
+
+
+}
+
+.title_1{
+        border-top: 3.5px solid #b4b4b4;
+        padding-top: 4px;
+        font-size: 2.625rem;
+        line-height: 2.875rem;
+        font-family: nyt-franklin,helvetica,sans-serif;
+        font-weight: 900;
+        letter-spacing: -1px;
+        color: #b4b4b4;
+}
+
+
+
+.linkok{
+    color: white;
+    text-decoration: none;
+}
+
+.curo{
+    cursor: pointer;
+}
+
+.letter{
+    letter-spacing: 4px;
+
+}
+
+._9c0ddc6d {
+    background-color: #222;
+    color: #fff;
+}
+
+.e9cc76f4 {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+._9d9727a4 {
+    font-size: 1rem;
+    line-height: 1.375rem;
+
+    font-weight: 500;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    list-style: none;
+}
+._9d9727a42 {
+   display: flex;
+   list-style: none;
+   
+}
+._58e84260 {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 500;
+    color: #000;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+
+.icons{
+    gap: 2rem;
+    font-size: 2rem;
+}
+
+
+.fcc{
+    font-size: .75rem;
+    line-height: 1.125rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 500;
+    color: #000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    color: #ccc;
+    padding-right: 15px;
+    margin-right: 15px;
+}
+.opi{
+    gap: 4rem;
+}
+
+@media screen and (max-width : 1200px){
+    .opi{
+        gap: 11px;
+    }
+}
+
+@media screen and (max-width : 576px), (max-width : 768px), (max-width : 992px) {
+    .icons{
+        text-align: center;
+    }
+   
+}

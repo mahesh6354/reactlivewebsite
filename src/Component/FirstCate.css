@@ -1,0 +1,89 @@
+.dc1{
+    font-size: 1rem;
+    color: #455bd3;
+    font-weight: bold;
+    
+}
+
+.fd{
+    border-top: 8.5px solid #000;
+    padding-top: 4px;
+    font-size: 1.9rem;
+    line-height: 2.455rem;
+    font-family: nyt-franklin,helvetica,sans-serif;
+    font-weight: 900;
+    letter-spacing: -1px;
+    color: #000;
+}
+
+@media screen and (max-width: 576px), (max-width : 768px), (max-width : 99px) {
+    h1.fd{
+        border-top: 8.5px solid #000;
+        padding-top: 4px;
+        font-size: 1.7rem;
+        line-height: 2.4375rem;
+        font-family: nyt-franklin,helvetica,sans-serif;
+       
+        color: #000;
+    }
+    
+}
+
+@media screen and (max-width : 576px) {
+    .tit2{
+        text-decoration: none;
+    }
+}
+
+.fd1{
+    border-top: 9.5px solid #000;
+    /* padding-top: 4px; */
+    font-size: 45px;
+    line-height: 4.875rem;
+
+    font-weight: 900;
+    letter-spacing: -1px;
+    color: #000;
+}
+
+.xz{
+    display: flex;
+    text-align: start;
+    font-size: 32px;
+    line-height: 2.875rem;
+    letter-spacing: 0.02rem;
+    text-align: justify;
+    /* line-height: 2.875rem; */
+    font-family: Imperial,georgia,serif;
+    text-align: justify;
+}
+
+.aq{
+    font-size: 27px;
+    font-family: system-ui;
+    font-weight: bold;
+}
+.para-container {
+    position: sticky;
+    top: 0;
+    height: calc(81vh - 57px);
+    scroll-behavior: smooth;
+}
+  
+.sm{
+    color: black;
+    font-size: 23px;
+}
+
+@media not all, (max-width: 768px), (max-width: 992px)
+{
+.para-container {
+    margin-top: -41px;
+    line-height: 11px;
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    flex-direction: column;
+    margin-bottom: 421px;
+}
+}

@@ -1,0 +1,25 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    scroll-behavior: smooth; 
+  }
+  ig{
+    margin-bottom: -8px;
+  }
+  
+@media screen and (max-width : 576px) ,(max-width : 768px) , (max-width : 992px) {
+  .ig{
+    margin-bottom: -41px;
+  }
+  .maxWidth{
+    max-width: 91vw;
+  }
+}
+
+
+
+.maxWidth{
+ max-width: 75vw;
+}
